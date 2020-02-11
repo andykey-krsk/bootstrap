@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+header {
+  height: 100px;
+  background-color: #c6c8ca;
+}
+
+footer {
+  background-color: #1c7430;
+  height: 40px;
+}
+
+.tel {
+  font-weight: bold;
+  font-size: 30px;
+  color: red;
+  margin-left: 20px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-style: 40px;
+  font-weight: 600;
+}
+
+/*# sourceMappingURL=style.css.map */
