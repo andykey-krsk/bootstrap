@@ -12,7 +12,6 @@ body {
 }
 
 header {
-  height: 100px;
   background-color: #c6c8ca;
 }
 
@@ -33,6 +32,11 @@ h1 {
   text-transform: uppercase;
   font-style: 40px;
   font-weight: 600;
+}
+
+.slider {
+  max-width: 1200px;
+  margin: auto;
 }
 
 /*# sourceMappingURL=style.css.map */
